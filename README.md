@@ -46,7 +46,7 @@
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": "Bearer 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"
+          "Authorization": "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"
         },
         body: JSON.stringify({
           model: "gpt-3.5-turbo",
